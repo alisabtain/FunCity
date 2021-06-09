@@ -253,6 +253,7 @@ GameObject:
   m_Component:
   - component: {fileID: 497068}
   - component: {fileID: 9567310}
+  - component: {fileID: -1965090110263144635}
   m_Layer: 0
   m_Name: Super_Spitfire
   m_TagString: Untagged
@@ -304,6 +305,21 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!111 &-1965090110263144635
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 149168}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 1
+  m_CullingType: 0
 --- !u!1 &156018
 GameObject:
   m_ObjectHideFlags: 0
@@ -882,6 +898,7 @@ GameObject:
   - component: {fileID: 449028}
   - component: {fileID: 3385028}
   - component: {fileID: 2338810}
+  - component: {fileID: 7623007422478352761}
   m_Layer: 0
   m_Name: proppeler
   m_TagString: Untagged
@@ -952,3 +969,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!111 &7623007422478352761
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 199508}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations:
+  - {fileID: 7400000, guid: 29f96d9f927cf864db7fdfb707b89203, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
