@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="stonecylinder" version="3.0" targetId="e5a966d195324dd6a8d5577826814dc3" sideLength="17.000000" topDiameter="5.000000" bottomDiameter="5.000000" sideImage="stonecylinder.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
